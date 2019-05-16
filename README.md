@@ -5,6 +5,6 @@ Flux is a library written in Go, helps with setting up and running service-orien
 
 #### Coming soon
 - Docs.
-- Tests.
+- More tests.
 
 
